@@ -3,3 +3,8 @@ li{
     font-size: 1.3em;
     color: #6a1616;
 }
+
+img{
+    width: 100px;
+    float: right;
+}
